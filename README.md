@@ -4,7 +4,7 @@
 
 ## Requirements:
 * Windows OS
-* Download ADB & Fastboot++ - [GitHub](https://github.com/K3V1991/ADB-and-FastbootPlusPlus)
+* ADB & Fastboot++ - [GitHub](https://github.com/K3V1991/ADB-and-FastbootPlusPlus)
 * USB Driver for your Device or Universal ADB Driver
 
 ## Enable Developer Options & USB Debugging:
@@ -19,6 +19,7 @@
 adb devices
 ```
 and hit Enter
+
 8. System is starting the ADB Daemon (If this is your first Time running ADB, you will see a Prompt on your Phone asking you to authorize a Connection with the Computer. Click OK.).
 9. Succesful enabled USB Debugging.
 
