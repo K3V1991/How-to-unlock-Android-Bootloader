@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/pj0Pnj7/ADB-and-Fastboot-Plus-Plus.png" width="200"></a>
+<p align="center"><img src="https://i.ibb.co/vx3HVyp/Lock.png" width="200"></a>
 <h1 align="center"><b>How to unlock Bootloader using Fastboot on Android</b></h1>
 <br />
 
