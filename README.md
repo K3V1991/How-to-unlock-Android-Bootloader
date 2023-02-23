@@ -1,4 +1,4 @@
-<p align="center"><img src="https://i.ibb.co/vx3HVyp/Lock.png" width="200"></a>
+<p align="center"><img src="https://github.com/K3V1991/How-to-unlock-Android-Bootloader/blob/main/Lock.png" width="200"></a>
 <h1 align="center"><b>How to unlock Bootloader using Fastboot on Android</b></h1>
 <br />
 
